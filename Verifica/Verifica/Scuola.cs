@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Verifica
 {
-    internal class Scuola
+     class Scuola
     {
+        private string nome, indirizzo, apertura, chiusura;
     }
 }
