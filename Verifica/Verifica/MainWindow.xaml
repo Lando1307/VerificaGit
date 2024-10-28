@@ -10,6 +10,9 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="250,59,0,0" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="250,197,0,0" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="250,340,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.521,2.701"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="496,59,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="496,197,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="496,340,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
