@@ -4,6 +4,9 @@ using System.Windows;
 
 namespace Verifica
 {
+
+    //COMMENTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+    
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
